@@ -22,14 +22,15 @@ Sources for the Data :
 
 ### Datasets
 - faostat_corn.csv : contains the data for corn yield
-- fertilizer-per-hectare : contains the uncleaned data for fertilizer
-- fertilizerData : contains the cleaned data for fertilizer
+- fertilizer-per-hectare.csv : contains the uncleaned data for fertilizer
+- fertilizerData.csv : contains the cleaned data for fertilizer
 - average-precipitation-per-year.csv : contains the data for rain
-- FAOSTAT_pest : contains the data for pesticides
+- FAOSTAT_pest.csv : contains the data for pesticides
+- MergedDataFinal4.csv : contains all the data after merging
 
 ### Code
 - cleaningFertilizerData.ipynb: contains the code for cleaning the fertilizer data
-- MergedDataFinal4.ipynb : contains the code for merging all the data together
+- Merged_Data.ipynb : contains the code for merging all the data together
 - DataExploration.ipynb : contains the code for data exploration (EDA)
 - RandomForestCorn.ipynb : contains the testing using the Random Forest model
 - LinearRegressionCorn.ipynb : contains the testing using the Linear Regression model
