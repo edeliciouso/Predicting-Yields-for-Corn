@@ -25,7 +25,7 @@ Sources for the Data :
 - fertilizer-per-hectare : contains the uncleaned data for fertilizer
 - fertilizerData : contains the cleaned data for fertilizer
 - average-precipitation-per-year.csv : contains the data for rain
-- faostat_pest : contains the data for pesticides
+- FAOSTAT_pest : contains the data for pesticides
 
 ### Code
 - cleaningFertilizerData.ipynb: contains the code for cleaning the fertilizer data
